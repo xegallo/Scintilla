@@ -1,31 +1,60 @@
-# Capitolo 12 - L'Arca Blindata
+<etichetta>Capitolo 12</etichetta>
+# L'Arca Blindata
 
 \[REC - AUDIO/VIDEO ON\] [UPLINK SATELLITARE: DEBOLE] [BIOMETRIA UTENTE: BATTITO 132 BPM - TEMP. 39.6°C - ALLARME DISIDRATAZIONE]
+
 *«Mira…»* La voce di Vince raschiò contro il microfono a conduzione ossea degli occhiali RA. Un colpo di tosse gli squassò il petto, costringendolo ad appoggiarsi al cofano rovente di un SUV abbandonato. *«Mira, amore mio. Sono arrivato. Ho dovuto lasciare l'auto a qualche isolato. È… è un cimitero di lamiere qui fuori. Ma ci sono. Respira, Mira. Io respiro.»*
+
 Mentiva. Respirare era un’agonia. Attraverso le lenti a realtà aumentata, il mondo pulsava al ritmo della sua tachicardia. Il cielo sopra Washington D.C. era terso, ma l'aria era un denso impasto di fumo di scarico, sudore e panico. Il National Mall non esisteva più. Al suo posto, un oceano in tempesta di teste, tende improvvisate e corpi ammassati.
+
 Ma oltre quella marea disperata, l'obiettivo degli occhiali mise a fuoco la meta. Il Campidoglio. La maestosa cupola bianca era ancora lì, ma il resto dell'edificio era stato fagocitato da una mostruosità di cemento armato e acciaio balistico. L’ingresso dell’ARK\_X-000 sporgeva dal sottosuolo come un tumore grigio. Al centro di quella fortezza inespugnabile brillavano, grottesche e solenni, le Porte di Colombo. Sradicate dal loro ingresso storico, i massicci battenti in bronzo, fusi con scene di esplorazione e trionfo, sbarravano ora l'accesso all'unica salvezza dell'umanità.
+
 Un reticolo verde si sovrappose alla visuale di Vince, calcolando gli spessori dei muri deflettori. [STRUTTURA: ARK_X-000. LIVELLO DI SICUREZZA: MAX] [TEMPO AL LOCKDOWN DEFINITIVO: 03:28:14]
+
 Tre ore e mezza. *«Ho tempo, Mira. Tre ore e mezza. Entro, prendo quel maledetto bracciale e guido fino all'L-022. Te lo prometto.»*
+
 Vince si staccò dal SUV e si immerse nella folla. L'impatto fu devastante. I corpi si premevano contro di lui in una morsa soffocante. L'odore acido della disperazione gli rivoltò lo stomaco. Ricevette una gomitata nelle costole, poi uno spintone che quasi lo fece cadere. La febbre gli annebbiava i sensi; percepiva il calore altrui come fiamme sulla pelle.
+
 L'HUD degli occhiali lampeggiò: [DENSITÀ FOLLA: CRITICA - RISCHIO SCHIACCIAMENTO]
+
 Non sarebbe mai arrivato alle transenne. Stava per morire lì, calpestato a trecento metri dal suo stesso capolavoro ingegneristico. Strinse i denti. *Pensa da architetto, non da vittima.* Attivò la visione tattica. Le lenti filtrarono il rumore visivo della folla, zoomando oltre le barricate, sulla linea dei soldati in tenuta antisommossa. Sopra ogni elmetto nero fluttuava un tag rosso sangue: [PROTOCOLLO LETALE - NESSUNA ECCEZIONE].
+
 Erano già in Livello Rosso. Nessuno sarebbe passato. Ma poi, l'inquadratura scattò verso destra. Un blindato si era appena fermato alle spalle del cordone. Ne stava scendendo una squadra fresca per il cambio turno. Gli occhiali agganciarono il caposquadra, che si stava allacciando il giubbotto tattico. Il tag sopra la sua testa era giallo. [CAPORALE MILLER - STATUS: SINCRONIZZAZIONE RETE IN CORSO...]
+
 Miller. Non aveva ancora scaricato l'aggiornamento. Nella sua cache locale, le regole d'ingaggio erano quelle di quattro ore prima: proteggere i VIP. Vince inviò un ping di emergenza di Livello 4 direttamente all'auricolare del Caporale.
+
 Oltre le barricate, Miller sussultò. Si portò una mano all'orecchio, cercò nella folla e i suoi occhi incrociarono il flash a infrarossi degli occhiali di Vince. Il soldato sbiancò. *«Architetto Marlow?!»* urlò Miller, credendo di avere davanti un superiore in pericolo di vita. *«Squadra, a cuneo! Aprite un varco, estraete il Livello 4!»*
+
 Fu una manovra brutale. I soldati si lanciarono nella calca usando gli scudi balistici come spazzaneve. Frantumarono nasi, calpestarono corpi. Vince fu afferrato per le ascelle e trascinato via di peso. Il vlog registrò la furia cieca della folla. Mani artigliate cercarono di trattenere Vince, strappandogli i vestiti. *«Perché lui?!»* strillò una donna, con il volto rigato di sangue. *«Siamo esseri umani!»*
+
 Vince chiuse gli occhi, divorato dal senso di colpa, finché non fu scagliato sul cemento liscio e pulito della Zona Sterile, oltre le barricate. Tossì, sputando saliva amara, mentre le transenne si richiudevano alle sue spalle con un tonfo metallico, tagliando fuori le urla.
+
 *«Cristo santo, Architetto, ha un aspetto pessimo,»* disse Miller, chinandosi su di lui e offrendogli una borraccia d'acqua. *«L'accesso pedonale è ancora fluido, signore. Vada dritto alle Porte di Colombo e strisci il bracciale. Almeno lei è salvo.»*
+
 Vince annuì, tremando. *«Grazie, Caporale. Grazie.»* Si alzò a fatica. L'inquadratura del vlog si stabilizzò sulle mastodontiche porte di bronzo, a soli venti metri di distanza. Il silenzio della Zona Sterile era surreale. *«Ci sono, Mira. Sono al sicuro,»* sussurrò, avviandosi verso lo scanner principale.
+
 Ma mentre si avvicinava, l'ironia spietata del suo stesso progetto gli si parò davanti. Sopra le porte, i sensori ottici lo inquadrarono. Vince aprì la bocca per pronunciare il suo codice vocale, convinto di poter aggirare l'assenza del bracciale dal terminale d'ingresso. L'HUD degli occhiali lampeggiò, accecandolo con un rosso scarlatto. [PERIMETRO INTERNO: PROTOCOLLO AIR-GAP ATTIVATO] [ACCESSI RETE/VOCALI DISABILITATI - RICHIESTO HARDWARE BIOMETRICO]
+
 Una voce sintetica, perfetta e inumana, rimbombò nel cortile. *«Lockdown Livello Rosso attivo. Presentare hardware biometrico o allontanarsi dalla Zona Sterile.»*
+
 Il cuore di Vince perse un colpo. L'Air-Gap. L'isolamento totale dai server che lui stesso aveva preteso per evitare attacchi informatici nelle ultime ore di vita del mondo. Nessuna voce, nessun volto, nessuna credenziale digitale valeva più nulla.
+
 L'unica cosa che poteva aprire quei battenti era un pezzo di silicio nero e anonimo. Ed era lì. A meno di trecento metri da dove si trovava. Appoggiato sulla testa dondolante di un Darth Vader di plastica, sulla scrivania del suo ufficio, esattamente *dietro* quelle fottute e insormontabili porte di bronzo.
+
 In preda al panico, Vince si voltò di scatto verso il Caporale Miller. *«Miller! Miller, ho bisogno di un override manuale dall'interno! Devi chiamare il...»*
+
 Le parole gli morirono in gola. L'obiettivo degli occhiali mise a fuoco il Caporale. Miller era rigido, immobile. Aveva appena finito di collegare il suo elmetto al server del perimetro. Il tag sopra la sua testa non era più giallo. Era diventato rosso. [PROTOCOLLO LETALE - AGGIORNAMENTO COMPLETATO]
+
 Miller abbassò lentamente lo sguardo su Vince. Dietro la visiera del casco, il soldato era sbiancato. Fece un passo indietro, tremando in modo impercettibile, e sollevò il fucile d'assalto puntandolo al petto di Vince.
+
 *«Caporale, abbassa quell'arma, sono io!»* gemette Vince.
+
 *«Architetto...» la voce di Miller attraverso l'interfono del casco era spezzata, frenetica. L'occhio destro gli saettò in alto, verso l'arco di cemento sopra le Porte di Colombo.*
+
 *Vince seguì il suo sguardo. Con un ronzio meccanico, le feritoie corazzate si stavano aprendo. I diffusori sonici a bassa frequenza e gli ugelli per i getti d'acqua ad altissima pressione stavano ruotando per inquadrarli. L'HUD degli occhiali di Vince riconobbe il pattern: Dispersione Attiva. Innesco imminente. Sapeva perfettamente cosa facevano. A cinquanta metri, disperdevano una rivolta. A due metri, il boato sonico ti spappolava le viscere e l'acqua ti spezzava la colonna vertebrale.*
+
 *«Il Livello Rosso ha armato i soppressori di folla,» ansimò Miller, il panico evidente nella voce metallica. «Se non si allontana, il sistema ci classificherà entrambi come bersagli ostili e attiverà i flash stroboscopici e l'onda d'urto. Ci massacreranno, signore. E se il sistema mi declassa a complice, i miei stessi uomini avranno l'ordine di spararmi.»*
+
 *Miller deglutì a fatica. Il suono della sicura del suo fucile d'assalto che scattava sotto le dita tremanti fu più forte delle urla della folla in sottofondo. Era in ostaggio delle macchine, delle regole e delle armi "non letali" che Vince stesso aveva installato.*
+
 *«La prego, Architetto,» la voce di Miller divenne fredda, rassegnata al protocollo e al terrore puro. «Allontanarsi dalla Zona Sterile. Ora.»*

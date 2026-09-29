@@ -1,28 +1,54 @@
-# Capitolo 19 – Folla e oblio
+<etichetta>Capitolo 19</etichetta>
+# Folla e oblio
 
 Il SUV nero si fermò a tre metri dalla linea di sbarramento. Il checkpoint era un muro invalicabile di cemento armato, cavalli di frisia e blindati militari disposti a spina di pesce per bloccare l'accesso all'arteria principale. Oltre quella linea, la strada per l'ARK\_L-022 era un nastro d'asfalto vuoto e perfetto. Al di qua, era l'inferno.
+
 Vince toccò la stanghetta dei suoi occhiali RA. [ATTIVAZIONE LOG DI SICUREZZA AMBIENTALE – SINCRONIZZAZIONE CONTINUA SERVER L-022]. Una piccola icona rossa iniziò a lampeggiare all'angolo della sua visuale. Se doveva finire lì, voleva che il sistema registrasse tutto. Voleva lasciare una traccia della gabbia che lui stesso aveva costruito.
+
 Abbassò il finestrino. L'aria tossica e le urla della folla tenuta a bada dai fucili d'assalto invasero l'abitacolo. I polmoni gli bruciarono, costringendolo a un colpo di tosse che gli spruzzò di sangue il mento e la camicia.
+
 Un soldato con il volto coperto da una maschera antigas si staccò dalla barricata e si avvicinò al finestrino, tenendo il fucile spianato. «Spenga il motore e faccia inversione! L'area è interdetta ai civili!» urlò il militare, la voce metallica distorta dall'altoparlante della maschera.
+
 Vince sollevò le mani dal volante, tremando, e allungò il foglio di assegnazione stropicciato verso l'obiettivo dei propri occhiali prima di porgerlo alla guardia. «Vince... Vince Marlow,» ansimò, la vista che gli si appannava per la febbre. «Architetto di Rete. Codice autorizzazione Livello 4. Mia moglie è già dentro. Devo passare.»
+
 Il soldato abbassò lo sguardo sul documento cartaceo, poi illuminò il volto sudato di Vince con la torcia tattica. «Il cartaceo non ha validità sotto Direttiva di Contenimento,» rispose l'uomo, freddo come una macchina. «Protocollo Zero Trust. Sollevi il polso e mostri il bracciale biometrico nero. Se il sensore dà luce verde, la faccio passare.»
+
 Vince fissò il soldato. Il respiro gli si bloccò in gola. Il Protocollo Zero Trust. Lo aveva redatto lui stesso in una sala riunioni a temperatura controllata, tre anni prima. Nessuna eccezione. Nessuna pietà. «Non... non ce l'ho,» sussurrò Vince. «L'ho lasciato in ufficio. Ma io sono l'Architetto. Ho i codici di bypass...»
+
 «Nessun bracciale, nessun accesso. È il protocollo,» lo tagliò corto il soldato, indietreggiando di un passo e rialzando l'arma.
+
 L'HUD degli occhiali di Vince lampeggiò in rosso. [ORARIO LOCALE: 17:56] Quattro minuti. Mancavano quattro minuti alla sigillatura stagna dell'Arca, ed era bloccato a un chilometro dalla salvezza da una regola che aveva inventato lui.
+
 «La prego,» implorò Vince, sputando altro sangue. «Mancano quattro minuti. Controlli il mio ID facciale sul server...»
+
 «Faccia inversione, signore!» urlò il soldato, puntandogli il fucile al viso. «Liberi l'area o apro il fuoco!»
+
 Vince rimase immobile. Guardò il soldato, poi guardò oltre la barricata, verso il vuoto della strada sicura. Mira era là in fondo. Abbassò la testa, annuendo debolmente, come se la sua resistenza si fosse spezzata di colpo.
+
 «D'accordo,» mormorò. «Me ne vado.»
+
 Spostò la mano sulla console centrale. Inserì la retromarcia. Il SUV emise un segnale acustico e indietreggiò lentamente di cinque, dieci metri, allontanandosi dal blocco. Il soldato abbassò l'arma, soddisfatto, e si voltò per tornare alla sua postazione.
+
 Vince chiuse gli occhi per una frazione di secondo. L'immagine della stanza bianca e perfetta che aveva costruito per Mira attraversò il buio della sua mente. *Ti amo.*
+
 Sgranò gli occhi, afferrò il volante con entrambe le mani e inserì la marcia avanti.
+
 Schiacciò il pedale a tavoletta. Il pesante SUV nero scattò in avanti coprendo la distanza in un istante. Non ci fu tempo per mirare. Non ci fu tempo per sparare.
+
 L'impatto fu un boato assordante. L'auto centrò in pieno lo spigolo del blocco di cemento armato, sollevando il muso. L'energia cinetica era spaventosa: il posteriore del SUV si alzò da terra, scaraventando la vettura in un ribaltamento feroce. Le lamiere stridettero sull'asfalto sprizzando scintille, il parabrezza si disintegrò in una nuvola di diamanti affilati.
+
 La violenza del testacoda strappò le portiere dai cardini. Vince fu sbalzato fuori dall'abitacolo come una bambola roturata, schiantandosi contro il ruvido asfalto della carreggiata oltre il blocco. L'urto scaraventò gli occhiali RA dal suo viso. La montatura volò per diversi metri, atterrando di piatto sulla strada e scivolando fino a fermarsi.
+
 L'icona rossa continuò a lampeggiare impassibile. La lente destra, seppur incrinata, riprese tutto.
+
 Dalla prospettiva rasoterra dell'obiettivo, l'inquadratura era fissa e perfetta. In primo piano, a due metri di distanza, c'era Vince. Giaceva su un fianco, immobile, voltato di schiena rispetto all'obiettivo. Il suo braccio destro, inerte, indicava la strada vuota verso l'Arca. Sullo sfondo, il varco era aperto.
+
 La folla disperata vide la breccia e si riversò in avanti come un'onda nera. Centinaia di gambe frenetiche attraversarono l'inquadratura correndo alla cieca verso la salvezza. Superarono i rottami fumanti, passarono accanto al corpo dell'Architetto e lo ignorarono completamente. Nessuno si fermò. Nessuno rallentò. L'uomo che aveva progettato il loro rifugio era già stato inghiottito dall'oblio.
+
 Mentre l'umanità scorreva via, una pozza scura iniziò ad allargarsi da sotto il corpo di Vince. Il sangue scivolava sull'asfalto, denso e caldissimo. Si faceva strada tra i detriti e la polvere, strisciando lento e inesorabile proprio verso l'obiettivo degli occhiali.
+
 L'inquadratura rimase fissa sul corpo di schiena, a poca distanza dalla City Car rossa di Mira,sul frastuono sordo della folla in fuga, e su quell'onda scarlatta che si avvicinava silenziosa. Millimetro dopo millimetro. Finché il sangue non raggiunse la montatura.
+
 Il liquido scuro bagnò il vetro, coprendo l'immagine di Vince e della folla sotto uno spesso velo rosso.
+
 L'HUD lampeggiò per l'ultima volta. [ERRORE OTTICO. CHIUSURA LOG] [CLOUD SYNC]
