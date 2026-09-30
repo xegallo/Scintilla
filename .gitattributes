@@ -1,0 +1,4 @@
+# tutti i file di testo restano con fine riga LF sui due PC
+* text=auto eol=lf
+*.docx binary
+*.xlsx binary
